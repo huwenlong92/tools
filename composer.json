@@ -1,0 +1,19 @@
+{
+  "name": "henly/tools",
+  "description": "php tools package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Henly",
+      "email": "henly@henly.me",
+      "homepage": "www.henly.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Henly\\Tools": "src"
+    }
+  },
+  "require": {}
+}
