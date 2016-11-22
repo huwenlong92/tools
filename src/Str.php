@@ -12,4 +12,6 @@ namespace Henly\Tools;
 class Str
 {
 
+
+
 }
